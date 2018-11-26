@@ -1,0 +1,4 @@
+1、VirtualBox-5.2.22-126460-Win.exe
+下载地址：https://download.virtualbox.org/virtualbox/5.2.22/VirtualBox-5.2.22-126460-Win.exe
+2、centos镜像
+下载地址：http://mirrors.163.com/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1804.iso
